@@ -5,4 +5,4 @@ const install = function (Vue) {
   Vue.component('editor', KindEditor)
 }
 
-export default { install }
+export default install
